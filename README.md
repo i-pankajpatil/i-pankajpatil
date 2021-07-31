@@ -1,1 +1,1 @@
-![homepage](/images/preview.gif)
+![homepage](/images/homepage.gif)
